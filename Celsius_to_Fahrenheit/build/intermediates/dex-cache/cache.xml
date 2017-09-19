@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/bikenmaharjan/.android/build-cache/a4974e8798577d21aa01128793d3e2985024bef2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/bikenmaharjan/Desktop/CS591Android/Celsius_to_Fahrenheit/app/build/intermediates/pre-dexed/debug/classes_d69c5b665c67644b07b58dd3c5739a2ea3ca9020.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bikenmaharjan/.android/build-cache/1bf2fd5d4ac868c8b7a026cc9753a2eb52159bc8/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/bikenmaharjan/Desktop/CS591Android/Celsius_to_Fahrenheit/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_99bf8948375bf38785da2cd33286365012c64de8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bikenmaharjan/.android/build-cache/60323b5be37456bab85d5044a2beeae99a89a3ae/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/bikenmaharjan/Desktop/CS591Android/Celsius_to_Fahrenheit/app/build/intermediates/pre-dexed/debug/classes_0721e0cb372b92d1acca0f329bee11ef201866e5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bikenmaharjan/Desktop/CS591Android/Celsius_to_Fahrenheit/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/bikenmaharjan/Desktop/CS591Android/Celsius_to_Fahrenheit/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_243a49136fb005dc74682c2896cf38b667d7cbaa/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bikenmaharjan/.android/build-cache/1a5271c013f87d5acc4f677c0692663253e7269c/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/bikenmaharjan/Desktop/CS591Android/Celsius_to_Fahrenheit/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_eb357d94a26a85c2d03566de7ecebae1c474555c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bikenmaharjan/.android/build-cache/ab97929afedb8306ce92671e272b8135cb908990/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/bikenmaharjan/Desktop/CS591Android/Celsius_to_Fahrenheit/app/build/intermediates/pre-dexed/debug/classes_c642236d21c7b870739b4623ea40b272432822b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bikenmaharjan/.android/build-cache/3d9281cdd922479c2771a52c73de56294cfcdeae/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/bikenmaharjan/Desktop/CS591Android/Celsius_to_Fahrenheit/app/build/intermediates/pre-dexed/debug/classes_5bdead495f382603f735bff01479bf682f516386.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bikenmaharjan/.android/build-cache/f4c0b73c0e168d0afe9e53c162fc0aa70e74266b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/bikenmaharjan/Desktop/CS591Android/Celsius_to_Fahrenheit/app/build/intermediates/pre-dexed/debug/classes_7847764ba8138e82db3f2c86351889b01edcf8d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bikenmaharjan/.android/build-cache/a4974e8798577d21aa01128793d3e2985024bef2/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/bikenmaharjan/Desktop/CS591Android/Celsius_to_Fahrenheit/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_bcde83e05caa10ab05f10e217bf698f3c62bc894.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bikenmaharjan/Desktop/CS591Android/Celsius_to_Fahrenheit/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8db3c08093c1c8edc4aabb8ffdf16dc42623dac3">
+        <dex dex="/Users/bikenmaharjan/Desktop/CS591Android/Celsius_to_Fahrenheit/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2d9635f9143e9da6d036024d45a9c09d57961bc2/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bikenmaharjan/.android/build-cache/22d42910e11f899a861c8256e935e8cc908658e4/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/bikenmaharjan/Desktop/CS591Android/Celsius_to_Fahrenheit/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_f1f0fbf9abe9cca0cc6cbbaf4de0dc057bedf18f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bikenmaharjan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/bikenmaharjan/Desktop/CS591Android/Celsius_to_Fahrenheit/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_d60bb75d8a79eefef796107cc1fa8a2d5a24b0d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bikenmaharjan/.android/build-cache/1a5271c013f87d5acc4f677c0692663253e7269c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/bikenmaharjan/Desktop/CS591Android/Celsius_to_Fahrenheit/app/build/intermediates/pre-dexed/debug/classes_bcb0e2f30a7b8ab0e73853b8fdbc3272e2c531a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bikenmaharjan/.android/build-cache/1bf2fd5d4ac868c8b7a026cc9753a2eb52159bc8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/bikenmaharjan/Desktop/CS591Android/Celsius_to_Fahrenheit/app/build/intermediates/pre-dexed/debug/classes_0283cf8baec9a8e50302e2bc3259b89f613d629a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bikenmaharjan/.android/build-cache/0e5712ea5eed9e4a329040b1201f7cad57b2d855/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/bikenmaharjan/Desktop/CS591Android/Celsius_to_Fahrenheit/app/build/intermediates/pre-dexed/debug/classes_b0c2faa0a3a94f0baae464cf7c4de8c975bc060b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bikenmaharjan/.android/build-cache/60323b5be37456bab85d5044a2beeae99a89a3ae/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/bikenmaharjan/Desktop/CS591Android/Celsius_to_Fahrenheit/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_4730d7799c20face813a09a24cf299f36744a149.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bikenmaharjan/.android/build-cache/22d42910e11f899a861c8256e935e8cc908658e4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/bikenmaharjan/Desktop/CS591Android/Celsius_to_Fahrenheit/app/build/intermediates/pre-dexed/debug/classes_60f56d25b1e0bd50e8ccb66079d5736e9811e2b0.jar" />
+    </item>
+
+</items>

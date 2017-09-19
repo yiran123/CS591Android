@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Problem 2 -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.sse.lect2_activitylifecycle_logging_savingstate.MainActivity">
+
+    <Button
+        android:id="@+id/btnCtoF"
+        android:layout_width="200dp"
+        android:layout_height="60dp"
+        android:background="#9000"
+        android:textColor="#ffff"
+        android:text="Celsius >> Fahrenheit"
+        android:layout_above="@+id/btnFtoC"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="27dp" />
+
+    <Button
+        android:id="@+id/btnFtoC"
+        android:layout_width="200dp"
+        android:layout_height="60dp"
+        android:textColor="#ffff"
+        android:background="#399900"
+        android:text="Fahrenheit >> Celsius"
+        android:layout_centerVertical="true"
+        android:layout_alignStart="@+id/btnCtoF" />
+
+    <EditText
+        android:id="@+id/txtInput"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+
+        android:hint="Enter Input"
+        android:gravity="center"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="11dp"
+        android:layout_marginBottom="79dp" />
+
+    <EditText
+        android:id="@+id/txtOutput"
+        android:layout_width= "150dp"
+        android:paddingLeft="18dp"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/txtInput"
+        android:layout_alignParentEnd="true"
+        android:autoText="false"
+        android:gravity="center"
+        android:hint="Output" />
+</RelativeLayout>
